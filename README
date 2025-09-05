@@ -1,0 +1,27 @@
+🌱 AI-Powered Agricultural Decision Support System
+📌 Overview
+
+This project is an AI-driven decision support system designed to help farmers adopt sustainable agriculture practices.
+It predicts the most suitable crop for cultivation based on soil and environmental parameters, and extends towards resource optimization (water & fertilizer usage) to maximize yield sustainably.
+
+Developed on Google Colab, this project leverages machine learning to bridge the gap between data and actionable agricultural insights.
+
+✨ Features
+
+🔍 Crop Recommendation – Predicts the best crop to grow based on soil nutrients (N, P, K), pH, temperature, humidity, rainfall.
+
+💧 Resource Optimization (Planned Extension) – Suggests optimal water & fertilizer inputs for sustainable yield.
+
+📈 Yield Gain Estimation (Planned Extension) – Estimates relative yield improvement (%) if recommended inputs are followed.
+
+🌍 Sustainability Focus – Encourages responsible use of natural resources by balancing productivity and environmental impact.
+
+🛠️ Tech Stack
+
+Language: Python
+
+Environment: Google Colab
+
+Libraries: NumPy, Pandas, Scikit-learn, Matplotlib/Seaborn
+
+Model: ML classifiers (Random Forest, Decision Tree, Logistic Regression, etc.)
